@@ -1,7 +1,7 @@
 class Aisync < Formula
   desc "Sync AI agent configs across Claude Code, Codex, Gemini CLI, Cursor, Copilot, Windsurf, and Cline"
   homepage "https://github.com/EvanL1/aitoolsync"
-  version "0.4.2"
+  version "0.5.0"
   license "MIT"
 
   on_macos do
